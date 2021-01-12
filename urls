@@ -1,13 +1,23 @@
-Productivity/Enterprise
+
+*Mathematics*
+The Most Dangerous Equation, http://assets.press.princeton.edu/chapters/s8863.pdf
+- A paper about De Moivre's equation on the standard deviation of the sampling distribution of the mean. 
+  The equation shows the relation between sample size and variance.
+
+
+*Better Code*
+Seven Ineffective Coding Habits of Many Programmers, https://www.youtube.com/watch?v=ZsHMHukIlJY
+ - Some tips on reducing code complexity.
+
+
+*Machine Learning*
+Avoiding side effects in complex environments, https://www.lesswrong.com/posts/5kurn5W62C5CpSWq6/avoiding-side-effects-in-complex-environments
+ - How reward functions can be modified to avoid trickery.
+Gaussian processes for dummies, http://katbailey.github.io/post/gaussian-processes-for-dummies/
+ - "[A] very basic intro to Gaussian Processes".
+Random Search for Hyper-Parameter Optimization, https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf
+ - Why random search is better than grid search for finding good Hyper-Parameter configurations.
+
+  
+*Productivity/Enterprise*
 http://www.paulgraham.com/makersschedule.html
-
-Machine Learning
-https://www.lesswrong.com/posts/5kurn5W62C5CpSWq6/avoiding-side-effects-in-complex-environments
-http://katbailey.github.io/post/gaussian-processes-for-dummies/
-https://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf
-
-Better Code
-https://www.youtube.com/watch?v=ZsHMHukIlJY
-
-Mathematics
-http://assets.press.princeton.edu/chapters/s8863.pdf
