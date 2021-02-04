@@ -1,6 +1,13 @@
 # interesting-articles
 This document is filled with different articles that we found interesting and wanted to bookmark for the future.
 
+### The formatting:
+
+*Subject*
+- title, url
+  - short description
+
+### The articles
 
 *Mathematics*
 
@@ -33,6 +40,12 @@ This document is filled with different articles that we found interesting and wa
   - A talk written for a highschool with general life advice.
 
 
+*Pixel art*
+- Pixel Art Tutorials, https://saint11.org/blog/pixel-art-tutorials/
+  - Some beautiful tutorial picures about specific topics. More on the practical side.
+- The Pixel Art Tutorial, http://pixeljoint.com/forum/forum_posts.asp?TID=11299
+  - More in depth, theoretical pixel art tutorial about the basic concepts.
+ 
 *Papers I still want to read*
 
 - Cognitive Complexity, https://www.sonarsource.com/docs/CognitiveComplexity.pdf
