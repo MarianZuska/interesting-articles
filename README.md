@@ -45,7 +45,9 @@ This document is filled with different articles that we found interesting and wa
   - Some beautiful tutorial picures about specific topics. More on the practical side.
 - The Pixel Art Tutorial, http://pixeljoint.com/forum/forum_posts.asp?TID=11299
   - More in depth, theoretical pixel art tutorial about the basic concepts.
- 
+- Pixel Grimoire, https://medium.com/pixel-grimoire/intro/home
+  - In depth and a bit nicer to look at.
+  
 *Papers I still want to read*
 
 - Cognitive Complexity, https://www.sonarsource.com/docs/CognitiveComplexity.pdf
